@@ -1,9 +1,0 @@
-module JAVAstudy {
-	public class myClass{
-		public static void main(String[] args) {
-			int i = 1;
-			float f = 1.1f;
-			System. out.println(i);
-		}
-	}
-}
