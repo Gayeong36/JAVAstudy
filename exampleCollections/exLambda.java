@@ -1,4 +1,4 @@
-package exampleArray;
+package exampleCollections;
 
 class Tool{
     int a;
